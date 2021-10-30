@@ -14,4 +14,5 @@ for char in string:
 
 for x in array:
     print(x/len(string))
+    #comment
     
