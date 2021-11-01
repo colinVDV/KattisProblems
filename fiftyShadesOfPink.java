@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/fiftyshades
 import java.util.Scanner;
 
 public class fiftyShadesOfPink {
