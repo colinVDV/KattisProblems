@@ -1,5 +1,5 @@
-n = input()
-n = int(n)
+#https://open.kattis.com/problems/electricaloutlets
+n = int(input())
 
 for i in range(n):
     output = 0
